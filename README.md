@@ -1,2 +1,3 @@
-# Task-Scheduling-for-Cloud-Computing-Using-Genetic-Algorithm
-This project presents a gentic algorithm based optimization for scheduling cloudlets to virtual machines. Simulation was done on [Cloudsim](https://github.com/Cloudslab/cloudsim).
+# HSGA: a hybrid heuristic algorithm for workflow scheduling in cloud systems
+This project presents a hybrid heuristic method (HSGA) to find a suitable scheduling for workflow graph, based on genetic algorithm in order to obtain the response quickly.
+Simulation was done on [Cloudsim](https://github.com/Cloudslab/cloudsim).
